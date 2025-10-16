@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Screenshot of an e-commerce platform.",
+      "imageUrl": "https://picsum.photos/seed/ecom/600/400",
+      "imageHint": "website screenshot"
+    },
+    {
+      "id": "project-2",
+      "description": "Screenshot of a task management application.",
+      "imageUrl": "https://picsum.photos/seed/taskapp/600/400",
+      "imageHint": "dashboard interface"
+    },
+    {
+      "id": "project-3",
+      "description": "Screenshot of a portfolio template.",
+      "imageUrl": "https://picsum.photos/seed/portfolio/600/400",
+      "imageHint": "minimalist design"
+    },
+    {
+      "id": "project-4",
+      "description": "Screenshot of a test automation dashboard.",
+      "imageUrl": "https://picsum.photos/seed/dashboard/600/400",
+      "imageHint": "data charts"
+    }
+  ]
+}
